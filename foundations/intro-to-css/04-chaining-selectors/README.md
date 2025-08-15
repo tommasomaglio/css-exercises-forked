@@ -15,6 +15,7 @@ The properties you need to add to each element are:
 ## Desired Outcome
 ![desired outcome](./desired-outcome.png)
 
+
 ### Self Check
 - Did you properly chain class selectors for each rule?
 - Does the `proportioned` image retain its original square proportions?
